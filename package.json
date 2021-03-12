@@ -1,7 +1,7 @@
 {
   "name": "@twigmarine/speed-controller",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
@@ -21,6 +21,8 @@
     "yarn": "^1.22.10"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "prairie": "^3.12.2",
+    "rxjs": "^6.6.6"
   }
 }

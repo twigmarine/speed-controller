@@ -1,0 +1,26 @@
+{
+  "name": "@twigmarine/speed-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Curry",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "add": "^2.0.6",
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-json": "^2.1.2",
+    "eslint-plugin-lodash-fp": "^2.2.0-a1",
+    "yarn": "^1.22.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
